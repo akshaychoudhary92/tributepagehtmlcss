@@ -95,3 +95,15 @@ h4 {
     padding-top: 30px;
     font-size: 25px;
 }
+
+/* media queris */
+
+@media (max-width: 460px) {
+    #div_one {
+        margin: 0 0 0 0;
+    }
+    h1 {
+        font-size: 3.5rem;
+        line-height: 0;
+    }
+}
