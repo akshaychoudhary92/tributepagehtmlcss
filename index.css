@@ -58,6 +58,8 @@ ul li {
 }
 
 #img-div img {
+    max-width: 100%;
+    height: auto;
     width: 150vh;
     height: 100vh;
     padding-bottom: 2vh;
@@ -105,5 +107,8 @@ h4 {
     h1 {
         font-size: 3.5rem;
         line-height: 0;
+    }
+    #img-div img {
+        max-width: 300px;
     }
 }
