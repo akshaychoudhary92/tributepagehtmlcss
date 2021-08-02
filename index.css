@@ -1,0 +1,13 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+#main_background {
+    background-color: white;
+}
+
+#div_one {
+    display: flex;
+    flex-direction: column;
+}
